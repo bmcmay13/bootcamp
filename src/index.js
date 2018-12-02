@@ -8,8 +8,8 @@ function App() {
     <div className="App">
       <h1>Hello CodeSandbox!</h1>
       <h2>
-        Start editing to see some magic happen! I should be able to change this
-        file, preview it, and then commit it into Github.
+        When I start editing, I should see some magic happen! I should be able
+        to change this file, preview it, and then commit it into Github.
       </h2>
     </div>
   );
